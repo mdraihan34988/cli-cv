@@ -1,0 +1,62 @@
+{
+    "Objective" : [
+        "I have completed graduation at CSE from AIUB. Now I am working as an associate software engineer in Linereflection. Here, I am working on reactjs and nodejs stack. Also having experience to work with Asp.net mvc (c#) technology, mysql & mssql database."
+    ], "Work Experience" : [
+        "1. Associate Software Engineer (Line Reflection LTD) [2021(September)-Present]",
+        "2. Teaching Assistant (2020-2021 Fall Semester) (AIUB)"
+    ], "Github": [
+        "https://github.com/mdraihan34988"
+    ], "linkedin" : [
+        "https://www.linkedin.com/in/mdraihanulislam/"
+    ], "Programming Skill" : [
+        "Programming Language : javaScript, C#, PHP, java, phython",
+        "Database : MySQL, Mssql, Oracle",
+        "Version Control : Git"
+
+    ], "Course Projects" : [
+        "1. Working on USA immigration paperworks related website develop by nodejs & reactjs and MSSQL database. Also work on docker container , google cloud platform, gulpjs ,nextjs on this project. Live Link:'https://www.filemyvisa.com/'",
+        "2. Working on Fund Raising Website. Live Link:'https://www.filemyvisa.com/'",
+        "3. Built a Inventory management system Rest API project for OOP2 course. Link:'https://github.com/mdraihan34988/FullStack_IMS'",
+        "4. Built Blood Bank Management system for ADBMD course. Link: 'https://github.com/mdraihan34988/BBMS'",
+        "5. Built a Inventory management system windows application with MVC-5 project for OOP2 course. Link: 'https://github.com/mdraihan34988/Inventory_Management_Mid_Term_Project'",
+        "6. Built a Online Learning Web Application project for Advance Web Technology course. Link: 'https://github.com/mdraihan34988/OES'",
+        "7. Built a Technician Finder Web Application project for WebTech course. Link: 'https://github.com/mdraihan34988/OTF'"
+    ], "Awards" : [
+        "1. Summa Cum Laude (American International University Bangladesh)",
+        "2. DEAN’S AWARD (American International University Bangladesh)"
+    ], "Licenses & certifications" : [
+        "1. Programming for Everybody (Getting Started with Phython) Ceritfication Link: 'https://www.coursera.org/account/accomplishments/certificate/MPGNHPN42YPU'",
+        "2. SQL Ceritfication Link:'https://app.testdome.com/cert/24a73d6a659947f5a451a9a1f3739cbd'"
+    ], "Coursework" : [
+        "Software Engineering",
+        "Programming Language with C",
+        "Object Oriented Programming (C++)",
+        "Advance Object Oriented Programming (C#)",
+        "Object Oriented Programming (Java)",
+        "Advance Database Management ",
+        "Advance Web Technology."
+    ], "Education" : [
+        "Computer Science and Engineering", 
+        "American International University - Bangladesh (AIUB)",
+        "CGPA: 3.99"
+
+    ],"Contact" : [
+
+        "Md. Raihanul Islam",
+        "01780-034452",
+        "17-34988-2@student.aiub.edu",
+        "47 no, New Chasara Jamtola , Fatulla Narayanganj"
+    ],"Personal Information" : [
+
+        "Fathers name : Md. Manzurul Islam",
+        "Mothers name : Ruma Akter",
+        "Date of Birth : 27 January 1998",
+        "Gender        : Male",
+        "Nationality   : Bangladeshi"
+    ], "References" : [
+        "VICTOR STANY ROZARIO",
+        "Assistant Professor, AIUB",
+        "stany@aiub.edu"
+    ]
+
+}

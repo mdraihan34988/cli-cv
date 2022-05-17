@@ -1,0 +1,22 @@
+{
+  "name": "cli-cv",
+  "version": "1.0.0",
+  "description": "creating cli cv with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdraihan34988/cli-cv.git"
+  },
+  "author": "Md. Raihanul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdraihan34988/cli-cv/issues"
+  },
+  "homepage": "https://github.com/mdraihan34988/cli-cv#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
